@@ -55,7 +55,7 @@
     </p>
 </div>
 
-[![André](https://img.shields.io/badge/André-000?style=for-the-badge&logo=github)]((https://github.com/devandrelima))
+[![André](https://img.shields.io/badge/André-000?style=for-the-badge&logo=github)](https://github.com/devandrelima)
 [![Arthur](https://img.shields.io/badge/Arthur-000?style=for-the-badge&logo=github)](https://github.com/Arthurpeixoto25)
 [![Iza](https://img.shields.io/badge/Iza-000?style=for-the-badge&logo=github)](https://github.com/izalayane)
 [![Joás](https://img.shields.io/badge/Joás-000?style=for-the-badge&logo=github)](https://github.com/joas-barros)
